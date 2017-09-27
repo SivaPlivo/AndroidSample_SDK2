@@ -26,7 +26,6 @@
         android:layout_height="wrap_content"
         android:inputType="textPassword"
         android:textColor="@color/colorPrimaryDark"
-        android:text="12345"
         android:hint="Password" />
 
     <Button
